@@ -1,0 +1,3 @@
+C:\Asos_Solutions\Specflow_Bamboo\CalculatorRun\obj\Debug\netcoreapp3.1\CalculatorRun.csprojAssemblyReference.cache
+C:\Asos_Solutions\Specflow_Bamboo\CalculatorRun\obj\Debug\netcoreapp3.1\CalculatorRun.AssemblyInfoInputs.cache
+C:\Asos_Solutions\Specflow_Bamboo\CalculatorRun\obj\Debug\netcoreapp3.1\CalculatorRun.AssemblyInfo.cs
